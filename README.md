@@ -69,17 +69,37 @@ plt.show()
 ## Output:
 <img width="1562" height="287" alt="Screenshot 2026-05-18 155645" src="https://github.com/user-attachments/assets/c29f30d9-cfe6-45c2-bad6-90bec2c6daea" />
 
+
+
+
 <img width="540" height="409" alt="Screenshot 2026-05-18 160505" src="https://github.com/user-attachments/assets/650c776d-8a3f-4d60-a256-18ce6cc90b9c" />
+
+
+
 
 <img width="281" height="518" alt="Screenshot 2026-05-18 160616" src="https://github.com/user-attachments/assets/732cc7ad-ddd1-4f53-a32d-592cbfa68392" />
 
+
+
 <img width="203" height="235" alt="Screenshot 2026-05-18 160726" src="https://github.com/user-attachments/assets/57d190f9-a8e2-4959-bf49-be869bda4d01" />
+
+
 
 <img width="1575" height="278" alt="Screenshot 2026-05-18 160838" src="https://github.com/user-attachments/assets/f0d03f95-df07-412a-b234-876d5536ecf1" />
 
+
+
 <img width="1088" height="271" alt="Screenshot 2026-05-18 160926" src="https://github.com/user-attachments/assets/b325b40c-533d-450c-a467-c76e01098e17" />
 
+
+
+<img width="201" height="54" alt="Screenshot 2026-05-18 161144" src="https://github.com/user-attachments/assets/728e5f1d-d3ab-446b-b0b8-512dd395c431" />
+
+
+
 <img width="1663" height="90" alt="Screenshot 2026-05-18 161342" src="https://github.com/user-attachments/assets/b907e3da-325c-49f0-b27d-de2a0124ec32" />
+
+
 
 <img width="831" height="616" alt="Screenshot 2026-05-18 161445" src="https://github.com/user-attachments/assets/edf8a65b-cb5f-4246-b96e-932fc4a64701" />
 
